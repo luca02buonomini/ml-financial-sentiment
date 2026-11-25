@@ -5,5 +5,5 @@ TF-IDF features reduced with SVD, comparing Naive Bayes, Softmax regression, Dec
 and Random Forest, evaluated with stratified 5-fold cross-validation and macro-F1.
 
 ## Files
-- `report.pdf` – project report
+- `sentiment-report.pdf` – project report
 - (add the notebook / code here)
